@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Email Extractor",
+  "version": "1.0",
+  "description": "Dr. S. B. Kishor - Extract email addresses from webpage",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "sbk16.png",
+      "48": "sbk48.png",
+      "128": "sbk128.png"
+    }
+  },
+  "icons": {
+    "16": "sbk16.png",
+    "48": "sbk48.png",
+    "128": "sbk128.png"
+  }
+}
